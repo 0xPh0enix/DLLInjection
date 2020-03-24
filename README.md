@@ -1,2 +1,2 @@
 # DLLInjection
-```Using WriteProcessMemory &amp; CreateRemoteThread to inject dll in target process.```
+```Using WriteProcessMemory & CreateRemoteThread to inject dll in target process.```
